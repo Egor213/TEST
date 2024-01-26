@@ -3,7 +3,7 @@
 
 int main()
 {
-    std::cout << "Hello world and PETRO\n";
+    std::cout << "Hello world and VASIA\n";
     //okey string
     //HEH
 }
